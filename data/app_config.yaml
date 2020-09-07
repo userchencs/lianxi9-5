@@ -1,0 +1,7 @@
+platformName: Android
+platformVersion: 5.1.1
+appPackage: com.qk.qingka
+appActivity: com.qk.qingka.module.login.LoginActivity
+deviceName: xxx
+IP: 127.0.0.1
+port: 4723

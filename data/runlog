@@ -1,0 +1,66 @@
+2020-09-07 17:27:16,093--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:27:44,577--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:27:44,577--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:28:18,533--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:28:19,197--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:28:21,821--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:28:23,078--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:28:23,642--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:29:18,816--android_test.py--[line:57]--20--INFO--NO DJ
+2020-09-07 17:29:18,826--android_test.py--[line:67]--20--INFO--NO input user
+2020-09-07 17:29:18,850--android_test.py--[line:78]--20--INFO--NO input passwd
+2020-09-07 17:29:18,856--android_test.py--[line:86]--20--INFO--NO login....
+2020-09-07 17:29:22,012--android_test.py--[line:57]--20--INFO--NO DJ
+2020-09-07 17:29:22,024--android_test.py--[line:67]--20--INFO--NO input user
+2020-09-07 17:29:22,032--android_test.py--[line:78]--20--INFO--NO input passwd
+2020-09-07 17:29:22,040--android_test.py--[line:86]--20--INFO--NO login....
+2020-09-07 17:29:25,065--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:29:54,004--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:29:54,613--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:29:57,309--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:29:58,526--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:29:59,101--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:30:34,419--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:31:52,377--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:32:18,894--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:32:18,894--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:32:56,909--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:32:57,482--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:33:00,248--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:33:01,510--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:33:02,087--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:33:06,934--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:33:46,580--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:33:47,166--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:33:50,247--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:33:51,509--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:33:52,103--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:33:57,492--android_test.py--[line:57]--20--INFO--NO DJ
+2020-09-07 17:33:57,500--android_test.py--[line:67]--20--INFO--NO input user
+2020-09-07 17:33:57,513--android_test.py--[line:78]--20--INFO--NO input passwd
+2020-09-07 17:33:57,526--android_test.py--[line:86]--20--INFO--NO login....
+2020-09-07 17:34:00,572--android_test.py--[line:57]--20--INFO--NO DJ
+2020-09-07 17:34:00,583--android_test.py--[line:67]--20--INFO--NO input user
+2020-09-07 17:34:00,594--android_test.py--[line:78]--20--INFO--NO input passwd
+2020-09-07 17:34:00,602--android_test.py--[line:86]--20--INFO--NO login....
+2020-09-07 17:43:34,083--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:44:06,657--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:44:06,657--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:44:46,283--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:44:46,873--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:44:49,790--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:44:51,212--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:44:51,857--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:44:57,178--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:45:37,622--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:45:38,432--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:45:45,935--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:45:46,571--android_test.py--[line:78]--20--INFO--NO input passwd
+2020-09-07 17:45:46,593--android_test.py--[line:86]--20--INFO--NO login....
+2020-09-07 17:45:49,604--android_test.py--[line:38]--20--INFO--start app
+2020-09-07 17:46:20,296--android_test.py--[line:45]--20--INFO--agree
+2020-09-07 17:46:20,882--android_test.py--[line:55]--20--INFO--DJ
+2020-09-07 17:46:23,952--android_test.py--[line:65]--20--INFO--input user
+2020-09-07 17:46:25,466--android_test.py--[line:76]--20--INFO--input passwd
+2020-09-07 17:46:26,068--android_test.py--[line:84]--20--INFO--login...
+2020-09-07 17:46:31,481--android_test.py--[line:38]--20--INFO--start app
